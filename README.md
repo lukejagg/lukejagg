@@ -1,5 +1,5 @@
 ### Luke Jagg
 
-Hi, my name is Lucas Jaggernauth. I'm a VR and AI developer.
+Building things for fun, including game development, virtual reality, and machine learning.
 
 [LinkedIn](https://www.linkedin.com/in/lucasjagg/)
