@@ -4,4 +4,4 @@ Building things for fun, including game development, virtual reality, and machin
 
 [LinkedIn](https://www.linkedin.com/in/lucasjagg/)
 
-Contact me: luke@speck.chat
+Contact me: luke@getspeck.ai
