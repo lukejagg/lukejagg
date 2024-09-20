@@ -12,5 +12,5 @@ Building things for fun, including game development, virtual reality, and machin
 
 <a href="https://paige.sh"><img align="left" src="assets/paige-app.png" alt="Paige - AI Frontend Engineer" width="160"></a>
 ​ <!-- NO WIDTH SPACE -->
-<a href="https://paige.sh" style="color: #438CEE;"><h3><b>Paige</b> - AI Frontend Engineer</h3></a>
+### [<span style="color: #438CEE;"><b>Paige</b> - AI Frontend Engineer</span>](https://paige.sh)
 <p>Contact me: luke@speck.sh</p>
