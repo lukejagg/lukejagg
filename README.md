@@ -2,6 +2,12 @@
 
 Building things for fun, including game development, virtual reality, and machine learning.
 
+<a href="https://www.ycombinator.com/companies/speck" target="_blank" aria-label="Y Combinator" class="s1xshr07">
+<svg stroke="currentColor" fill="#438CEE" stroke-width="0" viewBox="0 0 448 512" height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <path d="M448 32v448H0V32h448zM236 287.5L313.5 142h-32.7L235 233c-4.7 9.3-9 18.3-12.8 26.8L210 233l-45.2-91h-35l76.7 143.8v94.5H236v-92.8z"></path>
+</svg>
+</a>
+
 <div style="display: flex; gap: 10px;">
   <a href="https://www.ycombinator.com/companies/speck" target="_blank" aria-label="Y Combinator" class="s1xshr07">
     <svg stroke="currentColor" fill="#438CEE" stroke-width="0" viewBox="0 0 448 512" height="32" width="32" xmlns="http://www.w3.org/2000/svg">
@@ -38,7 +44,7 @@ Building things for fun, including game development, virtual reality, and machin
             <a href="https://paige.sh"><img src="assets/paige-app.png" alt="Paige - AI Frontend Engineer" width="160"></a>
         </td>
         <td>
-            <h3 style="margin-top: -10px;"><b>Paige</b> - AI Frontend Engineer</h3>
+            <h3><b>Paige</b> - AI Frontend Engineer</h3>
             <p>Contact me: luke@speck.sh</p>
         </td>
     </tr>
