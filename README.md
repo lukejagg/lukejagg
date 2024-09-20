@@ -38,7 +38,7 @@ Building things for fun, including game development, virtual reality, and machin
             <a href="https://paige.sh"><img src="assets/paige-app.png" alt="Paige - AI Frontend Engineer" width="160"></a>
         </td>
         <td>
-            <h3><b>Paige</b> - AI Frontend Engineer</h3>
+            <h4><b>Paige</b> - AI Frontend Engineer</h4>
             <p>Contact me: luke@speck.sh</p>
         </td>
     </tr>
