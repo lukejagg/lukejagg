@@ -22,10 +22,24 @@ Building things for fun, including game development, virtual reality, and machin
 
 ---
 
-<div style="display: flex; align-items: center;">
+<div style="flex" align="center">
   <a href="https://paige.sh"><img src="assets/paige-app.png" alt="Paige - AI Frontend Engineer" width="160"></a>
   <div style="margin-left: 16px; margin-top: -16px">
     <h3><b>Paige</b> - AI Frontend Engineer</h3>
     <p>Contact me: luke@speck.sh</p>
   </div>
 </div>
+
+
+<table cellpadding="0">
+    <tr style="padding: 0; vertical-align: top; height: 160px;">
+        <!-- Paige -->
+        <td>
+            <a href="https://paige.sh"><img src="assets/paige-app.png" alt="Paige - AI Frontend Engineer" width="160"></a>
+        </td>
+        <td style="padding-top: 30px;">
+            <h3><b>Paige</b> - AI Frontend Engineer</h3>
+            <p>Contact me: luke@speck.sh</p>
+        </td>
+    </tr>
+</table>
