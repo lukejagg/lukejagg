@@ -3,7 +3,7 @@
 Building things for fun, including game development, virtual reality, and machine learning.
 
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; color: transparent;">
   <a href="https://www.ycombinator.com/companies/speck" target="_blank" aria-label="Y Combinator" style="color: transparent;">
     <img src="assets/ycombinator.svg" alt="Y Combinator" height="32" width="32">
   </a>
