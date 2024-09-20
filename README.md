@@ -15,7 +15,7 @@ Building things for fun, including game development, virtual reality, and machin
   </a>
 </div>
 
-<table style="display: flex; gap: 10px;">
+<!-- <table style="display: flex; gap: 10px;">
   <tr>
     <td>
       <a href="https://www.ycombinator.com/companies/speck" target="_blank" aria-label="Y Combinator" class="s1xshr07">
@@ -33,7 +33,7 @@ Building things for fun, including game development, virtual reality, and machin
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 ---
