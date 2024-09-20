@@ -44,7 +44,7 @@ Building things for fun, including game development, virtual reality, and machin
     </tr>
 </table>
 
-<div style="display: flex; align-items: top;">
+<div>
     <img align="top" src="assets/paige-app.png" alt="Paige - AI Frontend Engineer" width="160"/>
     <div style="margin-left: 16px; margin-top: 30px;">
         <h3><b>Paige</b> - AI Frontend Engineer</h3>
