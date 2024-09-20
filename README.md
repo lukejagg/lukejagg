@@ -4,13 +4,13 @@ Building things for fun, including game development, virtual reality, and machin
 
 
 <div style="display: flex; gap: 0px; color: transparent;">
-  <a href="https://www.ycombinator.com/companies/speck" target="_blank" aria-label="Y Combinator" style="color: transparent; margin-right: 10px;">
+  <a href="https://www.ycombinator.com/companies/speck" target="_blank" aria-label="Y Combinator" style="color: transparent; margin-right: 10px; text-decoration: none;">
     <img src="assets/ycombinator.svg" alt="Y Combinator" height="32" width="32">
   </a>
-  <a href="https://linkedin.com/in/lucasjagg" target="_blank" aria-label="LinkedIn" style="color: transparent; margin-right: 10px;">
+  <a href="https://linkedin.com/in/lucasjagg" target="_blank" aria-label="LinkedIn" style="color: transparent; margin-right: 10px; text-decoration: none;">
     <img src="assets/linkedin.svg" alt="LinkedIn" height="32" width="32">
   </a>
-  <a href="https://twitter.com/lukejagg" target="_blank" aria-label="Twitter" style="color: transparent;">
+  <a href="https://twitter.com/lukejagg" target="_blank" aria-label="Twitter" style="color: transparent; text-decoration: none;">
     <img src="assets/twitter.svg" alt="Twitter" height="32" width="32">
   </a>
 </div>
