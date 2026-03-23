@@ -1,6 +1,6 @@
 ### <span>Lucas Jaggernauth</span>
 
-Applied AI.
+Agents @ Ramp
 
 Building things for fun, including game development, virtual reality, and machine learning.
 
