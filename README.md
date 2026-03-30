@@ -12,7 +12,21 @@ Building things for fun, including game development, virtual reality, and machin
 
 ---
 
-<a href="https://paige.sh"><img align="left" src="assets/paige-app.png" alt="Paige - AI Frontend Engineer" width="160"></a>
-​ <!-- NO WIDTH SPACE (<span style="color: #438CEE;">[lukeja.gg](https://lukeja.gg)</span>) -->
-### [<span style="color: #438CEE;"><b>Paige</b> - AI Frontend Engineer</span>](https://paige.sh)
-<p>Co-founder</p>
+<a href="https://ramp.com"><img align="left" src="assets/ramp.svg" alt="Ramp" width="160"></a>
+​ <!-- zero-width space for alignment -->
+### [<span style="color: #438CEE;"><b>Ramp</b></span>](https://ramp.com)
+<p>Agents</p>
+
+<br clear="left"/>
+
+<a href="https://speck.sh"><img align="left" src="assets/paige-app.png" alt="Speck - AI Frontend Engineer" width="160"></a>
+​ <!-- zero-width space for alignment -->
+### [<span style="color: #438CEE;"><b>Speck</b> (YC W24)</span>](https://speck.sh)
+<p>AI frontend engineer, enterprise agents</p>
+
+<br clear="left"/>
+
+<a href="https://sweep.dev"><img align="left" src="assets/sweep.svg" alt="Sweep" width="160"></a>
+​ <!-- zero-width space for alignment -->
+### [<span style="color: #438CEE;"><b>Sweep</b></span>](https://sweep.dev)
+<p>Founding engineer, first hire</p>
