@@ -2,7 +2,7 @@
 
 Agents @ Ramp
 
-Building things for fun, including game development, virtual reality, and machine learning.
+Building (mostly agents) for fun.
 
 <div style="display: flex; gap: 0px; color: transparent; gap: 10px;">
   <a href="https://bookface.ycombinator.com/user/1500358" target="_blank" aria-label="Y Combinator" style="color: transparent;"><img src="assets/ycombinator.svg" alt="Y Combinator" height="32" width="32"></a>
